@@ -9,5 +9,5 @@
 
 Запуск(нужно находится в корневой папке проекта):
 ```
-go run .\cmd\demoexam
+go run .\order-service\cmd\demoexam
 ```
